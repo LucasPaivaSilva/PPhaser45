@@ -1,0 +1,5 @@
+Added Component: Designator=J?(PIN_HEAD_S_2_2.54)
+Added Pin To Net: NetName=+5 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Member To Class: ClassName=Sheet1 Member=Component J? 5V Out
+Added Room: Name=Sheet1
